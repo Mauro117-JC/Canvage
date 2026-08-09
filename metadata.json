@@ -1,0 +1,6 @@
+{
+  "name": "Collage Canvas",
+  "description": "An interactive editorial collage and moodboard workspace to collect, edit, and organize images and articles with secure authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
